@@ -1,10 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-
-	<body>
-		<div class="content">
-			<div class="intro">
 				<span>Hi there!</span><br/>
 				<span>My name is <span class="highlight">Alisher Aliev</span> and I'm <span class="highlight">software developer</span>.</span><br/>
 				<span>I am looking to make a big difference as a Software Engineer utilizing my skills, experience and passion for my profession. look into my CV <a href="https://drive.google.com/open?id=1aE8cYfmHgRj7MxZdMFdmwob8cWtp3JPm"><span class="highlight-red">here</span></a>.</span>
@@ -38,5 +32,3 @@
 				</tr>
 			</table>
 		</div>
-	</body>
-</html>
