@@ -4,4 +4,4 @@
 
 <span>I am looking to make a big difference as a Software Engineer utilizing my skills, experience and passion for my profession.</span>
 <br/>
-<span>Look into my CV <a href="https://drive.google.com/open?id=1aE8cYfmHgRj7MxZdMFdmwob8cWtp3JPm"><span class="highlight-red">here</span></a>.</span>
+<span>Look into my CV <a href="https://drive.google.com/open?id=1trv_kL1HUhrYLFDqoe-PtADZ6HIFgAMz"><span class="highlight-red">here</span></a>.</span>
