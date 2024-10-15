@@ -1,6 +1,6 @@
 
 <h1>Hi there!</h1><br/>
-<span>My name is <span class="highlight">Alisher Aliev</span> and <span class="highlight">I am a highly skilled and results-driven DevOps/Automation Engineer with six years of hands-on experience.</span>
+<span class="highlight">I am a highly skilled and results-driven DevOps/Automation Engineer with six years of hands-on experience.</span>
 </span></span><br/>
 
 <br/>
